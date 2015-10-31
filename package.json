@@ -1,0 +1,22 @@
+{
+  "name": "leng",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "leng-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supphavit90/howtonpm.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "leng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supphavit90/howtonpm/issues"
+  },
+  "homepage": "https://github.com/supphavit90/howtonpm#readme"
+}
